@@ -18,7 +18,6 @@ This analysis uses DC housing market data from Refin and macroeconomic data from
 **Data Source:**
 <br>
 [Redfin](https://www.redfin.com/blog/data-center)
-
 <br>
 [FRED(Federal Reserve Economic Data)](https://fred.stlouisfed.org/)
 
