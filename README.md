@@ -11,7 +11,7 @@
 
 ## Summary of Data:
 
-This analysis uses DC housing market data from Refin and macroeconomic data from Fred with the time periods between February 2012 and October 2019. Housing data includes data for prices (median sale price, percentage of homes sold above list price, percentage of homes that had price drop, etc.), inventory (number of homes on market, new listings, months of supply, etc.), and sales (number of homes sold, median days on market, etc.). For economic data, S&P/Case-Shiller DC-Washington Home Price Index, 
+This analysis uses DC housing market data from Refin and macroeconomic data from Fred with the time periods between February 2012 and October 2019. Housing data includes data for prices (median sale price, percentage of homes sold above list price, percentage of homes that had price drop, etc.), inventory (number of homes on market, new listings, months of supply, etc.), and sales (number of homes sold, median days on market, etc.). For economic data, refer to [readme](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/blob/master/data/readme.md)
 
 ## Summary of Files:
 
