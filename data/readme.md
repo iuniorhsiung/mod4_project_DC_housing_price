@@ -2,7 +2,7 @@
 
 - S&P/Case-Shiller DC-Washington Home Price Index (WDXRSA)
 
-- Unemployment Rate in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (WASH911URN)(DC_UR)
+- Unemployment Rate in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (WASH911URN)(DMV_UR)
 
 - All Employees: Federal Government in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (SMU11479009091000001SA)(FED_EM)
 
