@@ -16,7 +16,7 @@
 
 - New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (WASH911BP1FHSA)
 
-- Labor Force Participation Rate for District Of Columbia (LBSSA11)
+- Labor Force Participation Rate for District Of Columbia (LBSSA11)(Labor_force)
 
 - All Employees: Financial Activities: Finance and Insurance in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (SMU11479005552000001SA)
 
