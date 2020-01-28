@@ -3,8 +3,7 @@
 ## Contributors: 
 
 [Nate Lu](https://github.com/iuniorhsiung)
-<br>
-[Jill Carrie](https://github.com/JillCarrie)
+
 
 ## Project Goal:
 
