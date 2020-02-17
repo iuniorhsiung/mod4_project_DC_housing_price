@@ -60,7 +60,7 @@ def stepwise_selection(X, y,
             break
     return included
 
-result = stepwise_selection(X, y)
+#result = stepwise_selection(X, y)
 
 #print('resulting features:')
 #print(result)
