@@ -23,9 +23,9 @@ This analysis uses DC housing market data from Refin and macroeconomic data from
 
 **Python Notebooks:**
 <br>
-[Exploratory Data Analysis]()
+[Exploratory Data Analysis](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/blob/master/master_notebook/DC_house_price_EDA.ipynb)
 <br>
-[Technical Notebook]()
+[Technical Notebook](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/blob/master/master_notebook/DC_house_price_master.ipynb)
 
 **Slide Deck:**
 <br>
@@ -33,12 +33,12 @@ This analysis uses DC housing market data from Refin and macroeconomic data from
 
 **Data Folder (all downloaded data and modified datasets used in our final python notebooks):**
 <br>
-[Data]()
+[Data](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/tree/master/data)
 
 **Data Visualizations Folder (any visualizations used in our final python notebooks or presentation):**
 <br>
-[Data Visualizations]()
+[Data Visualizations](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/tree/master/data_visualization)
 
 **Python Folder (any python files used in our final python notebooks, and other python notebooks used for testing):**
 <br>
-[Python Files and Test Notebooks]()
+[Python Files and Test Notebooks](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/tree/master/python_folder)
