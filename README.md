@@ -7,6 +7,7 @@
 
 ## Project Goal:
 
+The goal for this analysis is to estimate the median house price for Condo in DC area. We perform Time-Series Linear Regression framework in our analysis. This analysis is statistical-based using two feature seletion methodolgies: stepwise regression and K-Best. In our next project, we will improve this model by applying more machine learning techniques.
 
 ## Summary of Data:
 
