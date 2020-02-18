@@ -29,7 +29,7 @@ This analysis uses DC housing market data from Refin and macroeconomic data from
 
 **Slide Deck:**
 <br>
-[Presentation Slides](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/tree/master/presentation)
+[Presentation Slides](https://github.com/iuniorhsiung/mod4_project_DC_housing_price/blob/master/presentation/DC%20house%20prices.pdf)
 
 **Data Folder (all downloaded data and modified datasets used in our final python notebooks):**
 <br>
